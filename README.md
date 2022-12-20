@@ -13,3 +13,6 @@ comandos de impressão (print, println e printf), além de também aprender como
 - Basicamente o loop FOR vamos usar quando sabemos quantas vezes o loop será iterado, ou quantas vezes iremos repetir os comandos do loop.
 - Ao contrário do loop FOR o loop WHILE vamos usar quando não sabemoa ao certo quantas vezes iremos precisar repetir os comandos do loop.
 - O loop DO WHILE é semelhante ao loop WHILE, com a diferença de garantir que os comandos do loop serão executados pelo menos uma vez.
+
+
+<p>JAVA6 - Basicamente um Array ou Vetor é uma coleção de variáveis do mesmo tipo, ao invés de criar várias variáveis, criamos um array com X posições, onde cada posição representa uma variável e pode armazenar um valor.</p>

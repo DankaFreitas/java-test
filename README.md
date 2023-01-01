@@ -30,4 +30,6 @@ comandos de impressão (print, println e printf), além de também aprender como
 
 <p>JAVA12 - Aprendendo sobre os métodos GET e SET  </p>
 
+<p>JAVA13 - métodos STATIC e atributos STATIC em Orientação a Objetos em Java. </p>
+
 

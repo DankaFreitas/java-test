@@ -43,6 +43,7 @@ comandos de impressão (print, println e printf), além de também aprender como
   
  <p>JAVA18-  Interface em Java POO</p>
  
+ <p>JAVA19 - Classes ABSTRATAS em Java POO - Basicamente uma classe abstrata é uma classe que não pode ser instanciada, somente herdada. <p>
  
  
  

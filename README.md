@@ -32,8 +32,7 @@ comandos de impressão (print, println e printf), além de também aprender como
 
 <p>JAVA13 - métodos STATIC e atributos STATIC em Orientação a Objetos em Java. </p>
 
-<p>JAVA14 - Herança de Programação Orientada a Objetos aplicado em Java. 
- </p>
+<p>JAVA14 - Herança de Programação Orientada a Objetos aplicado em Java. </p>
  
  <p>JAVA15 - Palavra reservada SUPER e também o que superclasse e subclasse. </p>
  
@@ -49,8 +48,9 @@ comandos de impressão (print, println e printf), além de também aprender como
  
  <p>JAVA22-22- Estrutura Switch Case em Java.</p>
  
-  <p>JAVA23 - BREAK e CONTINUE.</p>
+ <p>JAVA23 - BREAK e CONTINUE.</p>
  
+ <p>JAVA24 - Criar e manipular Array em Java.</p>
  
 
  

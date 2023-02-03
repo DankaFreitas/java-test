@@ -52,6 +52,8 @@ comandos de impressão (print, println e printf), além de também aprender como
  
  <p>JAVA24 - Criar e manipular Array em Java.</p>
  
+ <p>JAVA25 - Array de tipo personalizado.</p>
+ 
 
  
  

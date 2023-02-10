@@ -56,6 +56,8 @@ comandos de impressão (print, println e printf), além de também aprender como
  
  <p>JAVA26 - Perguntas em Array .</p>
  
+  <p>JAVA27 - Passando Arrays como parâmetros para funções</p>
+ 
  
 
  
